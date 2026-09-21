@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.class
+out/
+target/
+.idea/
+.vscode/
